@@ -1,0 +1,6 @@
+*.sch-bak
+*.gbr
+*.drl
+*.gbrjob
+*.zip
+fp-info-cache
