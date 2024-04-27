@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "luatos-footprint")(type "KiCad")(uri "${KIPRJMOD}/luatos-footprint.pretty")(options "")(descr ""))
   (lib (name "Wire-Solder")(type "KiCad")(uri "${KIPRJMOD}/Wire-Solder.pretty")(options "")(descr ""))
+  (lib (name "esp32c3supermini")(type "KiCad")(uri "${KIPRJMOD}/esp32c3supermini")(options "")(descr ""))
 )
